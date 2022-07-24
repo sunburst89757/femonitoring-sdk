@@ -1,0 +1,22 @@
+{
+  "name": "femonitor-sdk",
+  "version": "1.0.0",
+  "description": "适用于web的前端监控系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunburst89757/femonitor-sdk.git"
+  },
+  "keywords": [
+    "[\"前端监控系统\"，\"Web\"]"
+  ],
+  "author": "sunburst89757",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunburst89757/femonitor-sdk/issues"
+  },
+  "homepage": "https://github.com/sunburst89757/femonitor-sdk#readme"
+}
